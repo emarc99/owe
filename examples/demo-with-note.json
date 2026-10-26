@@ -1,0 +1,10 @@
+{
+  "reply": "I can't come Saturday, but I can drop the speaker with Priya tonight.",
+  "must_not_invent": "Nothing beyond the message and your note. The reply does not add a fact.",
+  "can_send": true,
+  "why": "The user provided all the necessary information to answer the sender's questions.",
+  "word_count": 13,
+  "blocked": [],
+  "model": "gemma-4-26b-a4b-it",
+  "seconds": 32.42
+}

@@ -1,0 +1,10 @@
+{
+  "reply": "I haven't decided yet. I'll let you know by tonight.",
+  "must_not_invent": "The user's decision about attending Saturday and bringing the speaker.",
+  "can_send": true,
+  "why": "A holding reply is used because the user has not yet made a decision.",
+  "word_count": 10,
+  "blocked": [],
+  "model": "gemma-4-26b-a4b-it",
+  "seconds": 63.6
+}
